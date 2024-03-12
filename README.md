@@ -10,6 +10,12 @@ This project implements a simple modal window using HTML, CSS, and JavaScript. T
 - [CSS Styles](#css-styles)
 - [JavaScript Logic](#javascript-logic)
 
+## Preview
+<img width="897" alt="image" src="https://github.com/Fkayensu/modal-window/assets/66315433/ea4806d8-7d8d-47d4-a073-a2d486581a68">
+
+<img width="854" alt="image" src="https://github.com/Fkayensu/modal-window/assets/66315433/fbd2cee7-ec51-41a6-8ce6-128f125ec385">
+
+
 ## Project Structure
 
 - **index.html**: The main HTML file that contains the structure of the modal window and the buttons to trigger it.
